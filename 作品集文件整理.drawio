@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="osUwJLIhoufJI36hW0iz">
+    <mxGraphModel dx="796" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="📂文件夹" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-17" edge="1" parent="1" source="syiWN_Q6HnTAfWreRkGc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="syiWN_Q6HnTAfWreRkGc-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-20" edge="1" parent="1" source="syiWN_Q6HnTAfWreRkGc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="syiWN_Q6HnTAfWreRkGc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-15" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI Variable&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, ui-sans-serif, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; text-align: start; white-space: pre; background-color: rgb(241, 243, 244);&quot;&gt;✨&lt;/span&gt;我需要的是" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-24" edge="1" parent="1" source="syiWN_Q6HnTAfWreRkGc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="syiWN_Q6HnTAfWreRkGc-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-16" parent="1" style="whiteSpace=wrap;html=1;" value="渲染文件keyshot文件包" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-22" edge="1" parent="1" source="syiWN_Q6HnTAfWreRkGc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="syiWN_Q6HnTAfWreRkGc-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-19" parent="1" style="whiteSpace=wrap;html=1;" value="最后的效果图" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-27" edge="1" parent="1" source="syiWN_Q6HnTAfWreRkGc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="syiWN_Q6HnTAfWreRkGc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-21" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="render文件" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-28" edge="1" parent="1" source="syiWN_Q6HnTAfWreRkGc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="syiWN_Q6HnTAfWreRkGc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syiWN_Q6HnTAfWreRkGc-23" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" value="渲染文件" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
